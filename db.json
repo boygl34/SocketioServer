@@ -1,40 +1,40 @@
 {
   "XeTrongXuong": [
     {
-      "MaSo": "TVT20221114_72A-9898",
-      "BienSoXe": "72A-9898",
-      "TDHenGiaoXe": "2022-11-15T10:19",
+      "MaSo": "TVT20221114_72AAÂ",
+      "BienSoXe": "72AAÂ",
+      "TDHenGiaoXe": "2022-11-15T11:50",
       "LoaiHinhSuaChua": "EM",
       "LoaiHinhDongSon": "",
-      "TDGapLeTan": "2022-11-14T14:19:32.461Z",
+      "TDGapLeTan": "2022-11-14T14:51:01.067Z",
       "TrangThaiXuong": "05 Đang Sửa Chữa",
       "CoVanDichVu": "Trực",
       "TrangThaiSCC": "Đang SC",
       "CongDoanDongSon": "",
       "TrangThaiDongSon": "",
-      "createdAt": 1668435569423,
+      "createdAt": 1668437457983,
       "id": 1,
-      "TimeStartGJ": "2022-11-14T21:21",
+      "TimeStartGJ": "2022-11-14T21:51",
       "KhoangSuaChua": "EM 02",
-      "TimeEndGJ": "2022-11-14T11:55"
+      "TimeEndGJ": "2022-11-14T21:51"
     },
     {
       "MaSo": "TVT20221114_72A-999.99",
       "BienSoXe": "72A-999.99",
-      "TDHenGiaoXe": "2022-11-15T10:34",
+      "TDHenGiaoXe": "2022-11-14T21:51",
       "LoaiHinhSuaChua": "EM",
       "LoaiHinhDongSon": "",
-      "TDGapLeTan": "2022-11-14T14:34:43.009Z",
-      "TrangThaiXuong": "02 Chờ Tiếp Nhận",
+      "TDGapLeTan": "2022-11-14T14:51:38.996Z",
+      "TrangThaiXuong": "05 Đang Sửa Chữa",
       "CoVanDichVu": "Trực",
-      "TrangThaiSCC": "Chờ SC",
+      "TrangThaiSCC": "Đang SC",
       "CongDoanDongSon": "",
       "TrangThaiDongSon": "",
-      "createdAt": 1668436479800,
+      "createdAt": 1668437495792,
       "id": 2,
-      "TimeStartGJ": "2022-11-14T10:27",
-      "KhoangSuaChua": "EM 02",
-      "TimeEndGJ": "2022-11-15T08:10"
+      "TimeStartGJ": "2022-11-14T21:54",
+      "KhoangSuaChua": "EM 03",
+      "TimeEndGJ": "2022-11-14T22:24"
     }
   ],
   "XeDaGiao": []
