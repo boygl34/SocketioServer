@@ -9,16 +9,14 @@
       "LoaiHinhSuaChua": "EM",
       "LoaiHinhDongSon": "",
       "TDGapLeTan": "2022-11-14T01:42:49.213Z",
-      "TrangThaiXuong": "02 Chờ Tiếp Nhận",
+      "TrangThaiXuong": "04 Đã Tiếp Nhận",
       "CoVanDichVu": "None",
       "TrangThaiSCC": "Chờ SC",
       "CongDoanDongSon": "",
       "TrangThaiDongSon": "",
-      "createdAt": 1668390169992,
+      "createdAt": "1668390169992",
       "id": 1,
-      "TimeStartGJ": "2022-11-14T02:55:00.000Z",
-      "KhoangSuaChua": "EM 04",
-      "TimeEndGJ": "2022-11-14T04:50:00.000Z"
+      "KhoangSuaChua": "EM 04"
     },
     {
       "MaSo": "TVT20221114_74A-999.99",
@@ -28,17 +26,15 @@
       "TrangThaiHen": "",
       "LoaiHinhSuaChua": "EM",
       "LoaiHinhDongSon": "",
-      "TDGapLeTan": 1668390296637,
-      "TrangThaiXuong": "02 Chờ Tiếp Nhận",
+      "TDGapLeTan": "1668390296637",
+      "TrangThaiXuong": "04 Đã Tiếp Nhận",
       "CoVanDichVu": "Tài",
       "TrangThaiSCC": "Chờ SC",
       "CongDoanDongSon": "",
       "TrangThaiDongSon": "",
-      "createdAt": 1668390297514,
+      "createdAt": "1668390297514",
       "id": 2,
-      "TimeStartGJ": "2022-11-14T02:55:00.000Z",
-      "KhoangSuaChua": "EM 01",
-      "TimeEndGJ": "2022-11-14T08:05:00.000Z"
+      "KhoangSuaChua": "EM 01"
     },
     {
       "MaSo": "TVT20221114_73A-AAA",
@@ -48,17 +44,15 @@
       "TrangThaiHen": "",
       "LoaiHinhSuaChua": "EM",
       "LoaiHinhDongSon": "",
-      "TDGapLeTan": 1668390376757,
-      "TrangThaiXuong": "02 Chờ Tiếp Nhận",
+      "TDGapLeTan": "1668390376757",
+      "TrangThaiXuong": "04 Đã Tiếp Nhận",
       "CoVanDichVu": "Mẫn",
       "TrangThaiSCC": "Chờ SC",
       "CongDoanDongSon": "",
       "TrangThaiDongSon": "",
-      "createdAt": 1668390377550,
+      "createdAt": "1668390377550",
       "id": 3,
-      "TimeStartGJ": "2022-11-14T03:00:00.000Z",
-      "KhoangSuaChua": "EM 03",
-      "TimeEndGJ": "2022-11-14T06:30:00.000Z"
+      "KhoangSuaChua": "EM 01"
     },
     {
       "MaSo": "TVT20221114_72A-989.89",
@@ -68,17 +62,15 @@
       "TrangThaiHen": "",
       "LoaiHinhSuaChua": "EM60",
       "LoaiHinhDongSon": "",
-      "TDGapLeTan": 1668393560939,
-      "TrangThaiXuong": "02 Chờ Tiếp Nhận",
+      "TDGapLeTan": "1668393560939",
+      "TrangThaiXuong": "04 Đã Tiếp Nhận",
       "CoVanDichVu": "",
       "TrangThaiSCC": "Chờ SC",
       "CongDoanDongSon": "",
       "TrangThaiDongSon": "",
-      "createdAt": 1668393561845,
+      "createdAt": "1668393561845",
       "id": 4,
-      "TimeStartGJ": "2022-11-14T02:44:40.377Z",
-      "KhoangSuaChua": "EM 02",
-      "TimeEndGJ": "2022-11-14T04:00:00.000Z"
+      "KhoangSuaChua": "EM 02"
     },
     {
       "MaSo": "TVT20221114_72A-999991",
@@ -96,9 +88,7 @@
       "TrangThaiDongSon": "",
       "createdAt": "1668393806550",
       "id": 5,
-      "KhoangSuaChua": "SCC 05",
-      "TimeStartGJ": "2022-11-14T02:55:00.000Z",
-      "TimeEndGJ": "2022-11-14T05:30:00.000Z"
+      "KhoangSuaChua": "SCC 05"
     },
     {
       "MaSo": "TVT20221114_72A-898.98",
@@ -109,16 +99,16 @@
       "LoaiHinhSuaChua": "EM",
       "LoaiHinhDongSon": "",
       "TDGapLeTan": "2022-11-14T03:32:53.514Z",
-      "TrangThaiXuong": "02 Chờ Tiếp Nhận",
+      "TrangThaiXuong": "04 Đã Tiếp Nhận",
       "CoVanDichVu": "",
       "TrangThaiSCC": "Chờ SC",
       "CongDoanDongSon": "",
       "TrangThaiDongSon": "",
-      "createdAt": 1668396774455,
+      "createdAt": "1668396774455",
       "id": 6,
-      "TimeStartGJ": "2022-11-14T04:05:00.000Z",
-      "KhoangSuaChua": "EM 02",
-      "TimeEndGJ": "2022-11-14T08:50:00.000Z"
+      "KhoangSuaChua": "EM 01",
+      "TimeStartGJ": "2022-11-14T04:15:24.200Z",
+      "TimeEndGJ": "2022-11-14T07:15:00.000Z"
     }
   ],
   "XeDaGiao": [
