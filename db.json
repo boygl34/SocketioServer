@@ -18,7 +18,7 @@
       "id": 1,
       "TimeStartGJ": "2022-11-14T02:55:00.000Z",
       "KhoangSuaChua": "EM 04",
-      "TimeEndGJ": "2022-11-14T06:40:00.000Z"
+      "TimeEndGJ": "2022-11-14T04:50:00.000Z"
     },
     {
       "MaSo": "TVT20221114_74A-999.99",
@@ -58,7 +58,7 @@
       "id": 3,
       "TimeStartGJ": "2022-11-14T03:00:00.000Z",
       "KhoangSuaChua": "EM 03",
-      "TimeEndGJ": "2022-11-14T06:00:00.000Z"
+      "TimeEndGJ": "2022-11-14T06:30:00.000Z"
     },
     {
       "MaSo": "TVT20221114_72A-989.89",
@@ -78,7 +78,7 @@
       "id": 4,
       "TimeStartGJ": "2022-11-14T02:44:40.377Z",
       "KhoangSuaChua": "EM 02",
-      "TimeEndGJ": "2022-11-14T07:40:00.000Z"
+      "TimeEndGJ": "2022-11-14T04:00:00.000Z"
     },
     {
       "MaSo": "TVT20221114_72A-999991",
@@ -98,7 +98,27 @@
       "id": 5,
       "KhoangSuaChua": "SCC 05",
       "TimeStartGJ": "2022-11-14T02:55:00.000Z",
-      "TimeEndGJ": "2022-11-14T05:09:42.427Z"
+      "TimeEndGJ": "2022-11-14T05:30:00.000Z"
+    },
+    {
+      "MaSo": "TVT20221114_72A-898.98",
+      "BienSoXe": "72A-898.98",
+      "TenKH": "1",
+      "SoThe": "1",
+      "TrangThaiHen": "",
+      "LoaiHinhSuaChua": "EM",
+      "LoaiHinhDongSon": "",
+      "TDGapLeTan": "2022-11-14T03:32:53.514Z",
+      "TrangThaiXuong": "02 Chờ Tiếp Nhận",
+      "CoVanDichVu": "",
+      "TrangThaiSCC": "Chờ SC",
+      "CongDoanDongSon": "",
+      "TrangThaiDongSon": "",
+      "createdAt": 1668396774455,
+      "id": 6,
+      "TimeStartGJ": "2022-11-14T04:05:00.000Z",
+      "KhoangSuaChua": "EM 02",
+      "TimeEndGJ": "2022-11-14T08:50:00.000Z"
     }
   ],
   "XeDaGiao": [
