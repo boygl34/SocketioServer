@@ -1,5 +1,25 @@
 {
-  "XeTrongXuong": [],
-  "XeDaGiao":[]
- 
+  "XeTrongXuong": [
+    {
+      "MaSo": "TVT20221114_72A-199.99",
+      "BienSoXe": "72A-199.99",
+      "TenKH": "1",
+      "SoThe": "1",
+      "TrangThaiHen": "",
+      "LoaiHinhSuaChua": "EM",
+      "LoaiHinhDongSon": "",
+      "TDGapLeTan": "14/11/2022 08:36:00",
+      "TrangThaiXuong": "02 Chờ Tiếp Nhận",
+      "CoVanDichVu": "None",
+      "TrangThaiSCC": "Chờ SC",
+      "CongDoanDongSon": "",
+      "TrangThaiDongSon": "",
+      "createdAt": 1668389781675,
+      "id": 1,
+      "TimeStartGJ": "14/11/2022 09:06:00",
+      "KhoangSuaChua": "EM 01",
+      "TimeEndGJ": "14/11/2022 10:40:00"
+    }
+  ],
+  "XeDaGiao": []
 }
