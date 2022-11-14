@@ -119,6 +119,20 @@
       "KhoangSuaChua": "EM 03",
       "TimeStartGJ": "2022-11-13T19:50",
       "TimeEndGJ": "2022-11-14T03:20"
+    },
+    {
+      "MaSo": "TVT20221114_72A-989.88",
+      "BienSoXe": "72A-989.88",
+      "LoaiHinhSuaChua": "EM",
+      "LoaiHinhDongSon": "",
+      "TDGapLeTan": "2022-11-14T12:56:55.648Z",
+      "TrangThaiXuong": "02 Chờ Tiếp Nhận",
+      "CoVanDichVu": "Trực",
+      "TrangThaiSCC": "Chờ SC",
+      "CongDoanDongSon": "",
+      "TrangThaiDongSon": "",
+      "createdAt": 1668430612479,
+      "id": 7
     }
   ],
   "XeDaGiao": [
