@@ -13,7 +13,9 @@
       "TrangThaiDongSon": "",
       "createdAt": "1668430773898",
       "id": 1,
-      "KhoangSuaChua": "EM 03"
+      "KhoangSuaChua": "EM 03",
+      "TimeStartGJ": "2022-11-14T03:50:39.657Z",
+      "TimeEndGJ": "2022-11-14T04:20:39.657Z"
     },
     {
       "MaSo": "TVT20221114_72A-1989",
