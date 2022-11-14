@@ -52,7 +52,7 @@
       "TrangThaiDongSon": "",
       "createdAt": "1668390377550",
       "id": 3,
-      "KhoangSuaChua": "EM 01"
+      "KhoangSuaChua": "EM 03"
     },
     {
       "MaSo": "TVT20221114_72A-989.89",
@@ -88,7 +88,9 @@
       "TrangThaiDongSon": "",
       "createdAt": "1668393806550",
       "id": 5,
-      "KhoangSuaChua": "SCC 05"
+      "KhoangSuaChua": "EM 02",
+      "TimeStartGJ": "2022-11-14T05:25:00.000Z",
+      "TimeEndGJ": "2022-11-14T07:10:00.000Z"
     },
     {
       "MaSo": "TVT20221114_72A-898.98",
