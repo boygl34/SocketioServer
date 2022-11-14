@@ -16,9 +16,9 @@
       "TrangThaiDongSon": "",
       "createdAt": 1668390169992,
       "id": 1,
-      "TimeStartGJ": "2022-11-14T02:14:04.670Z",
-      "KhoangSuaChua": "EM 01",
-      "TimeEndGJ": "2022-11-14T02:50:00.000Z"
+      "TimeStartGJ": "2022-11-14T02:55:00.000Z",
+      "KhoangSuaChua": "EM 04",
+      "TimeEndGJ": "2022-11-14T06:40:00.000Z"
     },
     {
       "MaSo": "TVT20221114_74A-999.99",
@@ -96,9 +96,9 @@
       "TrangThaiDongSon": "",
       "createdAt": "1668393806550",
       "id": 5,
-      "KhoangSuaChua": "EM 04",
-      "TimeStartGJ": "2022-11-14T02:35:17.573Z",
-      "TimeEndGJ": "2022-11-14T06:50:00.000Z"
+      "KhoangSuaChua": "SCC 07",
+      "TimeStartGJ": "2022-11-14T02:05:00.000Z",
+      "TimeEndGJ": "2022-11-14T04:19:42.427Z"
     }
   ],
   "XeDaGiao": [
