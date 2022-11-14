@@ -1,74 +1,7 @@
 {
   "XeTrongXuong": [
-    {
-      "MaSo": "TVT20221114_72A-123.45",
-      "BienSoXe": "72A-123.45",
-      "LoaiHinhSuaChua": "EM",
-      "LoaiHinhDongSon": "",
-      "TDGapLeTan": "2022-11-14T12:59:37.056Z",
-      "TrangThaiXuong": "04 Đã Tiếp Nhận",
-      "CoVanDichVu": "Trực",
-      "TrangThaiSCC": "Đang SC",
-      "CongDoanDongSon": "",
-      "TrangThaiDongSon": "",
-      "createdAt": "1668430773898",
-      "id": 1,
-      "KhoangSuaChua": "EM 03",
-      "TimeStartGJ": "2022-11-14T13:48:15.224Z",
-      "TimeEndGJ": "2022-11-14T11:45"
-    },
-    {
-      "MaSo": "TVT20221114_72A-1989",
-      "BienSoXe": "72A-1989",
-      "LoaiHinhSuaChua": "EM",
-      "LoaiHinhDongSon": "",
-      "TDGapLeTan": "2022-11-14T13:01:22.006Z",
-      "TrangThaiXuong": "05 Đang Sửa Chữa",
-      "CoVanDichVu": "Trực",
-      "TrangThaiSCC": "Đang SC",
-      "CongDoanDongSon": "",
-      "TrangThaiDongSon": "",
-      "createdAt": 1668430878945,
-      "id": 2,
-      "TimeStartGJ": "",
-      "KhoangSuaChua": "EM 02",
-      "TimeEndGJ": "2022-11-14T15:15"
-    },
-    {
-      "MaSo": "TVT20221114_72A-998.91",
-      "BienSoXe": "72A-998.91",
-      "LoaiHinhSuaChua": "EM",
-      "LoaiHinhDongSon": "",
-      "TDGapLeTan": "2022-11-14T13:33:15.624Z",
-      "TrangThaiXuong": "02 Chờ Tiếp Nhận",
-      "CoVanDichVu": "Trực",
-      "TrangThaiSCC": "Đang SC",
-      "CongDoanDongSon": "",
-      "TrangThaiDongSon": "",
-      "createdAt": 1668432792446,
-      "id": 3,
-      "TimeStartGJ": "",
-      "KhoangSuaChua": "EM 04",
-      "TimeEndGJ": "2022-11-14T15:30"
-    },
-    {
-      "MaSo": "TVT20221114_72A-989.00",
-      "BienSoXe": "72A-989.00",
-      "TDHenGiaoXe": "2022-11-15T09:34",
-      "LoaiHinhSuaChua": "EM60",
-      "LoaiHinhDongSon": "",
-      "TDGapLeTan": "2022-11-14T13:35:05.352Z",
-      "TrangThaiXuong": "02 Chờ Tiếp Nhận",
-      "CoVanDichVu": "Trực",
-      "TrangThaiSCC": "Chờ SC",
-      "CongDoanDongSon": "",
-      "TrangThaiDongSon": "",
-      "createdAt": 1668432902295,
-      "id": 4,
-      "TimeStartGJ": "2022-11-14T10:30",
-      "KhoangSuaChua": "SCC 05",
-      "TimeEndGJ": "2022-11-14T13:35"
-    }
   ],
-  "XeDaGiao": []
+  "XeDaGiao": [
+    
+  ]
 }
