@@ -1,6 +1,62 @@
 {
   "XeTrongXuong": [
     {
+      "MaSo": "TVT20221114_82A-199.99",
+      "BienSoXe": "82A-199.99",
+      "TenKH": "a",
+      "SoThe": "a",
+      "TrangThaiHen": "",
+      "LoaiHinhSuaChua": "EM",
+      "LoaiHinhDongSon": "",
+      "TDGapLeTan": "2022-11-14T01:42:49.213Z",
+      "TrangThaiXuong": "02 Chờ Tiếp Nhận",
+      "CoVanDichVu": "None",
+      "TrangThaiSCC": "Chờ SC",
+      "CongDoanDongSon": "",
+      "TrangThaiDongSon": "",
+      "createdAt": 1668390169992,
+      "id": 1,
+      "TimeStartGJ": "2022-11-14T02:14:04.670Z",
+      "KhoangSuaChua": "EM 01",
+      "TimeEndGJ": "2022-11-14T02:44:04.670Z"
+    },
+    {
+      "MaSo": "TVT20221114_74A-999.99",
+      "BienSoXe": "74A-999.99",
+      "TenKH": "13",
+      "SoThe": "1",
+      "TrangThaiHen": "",
+      "LoaiHinhSuaChua": "EM",
+      "LoaiHinhDongSon": "",
+      "TDGapLeTan": 1668390296637,
+      "TrangThaiXuong": "02 Chờ Tiếp Nhận",
+      "CoVanDichVu": "Tài",
+      "TrangThaiSCC": "Chờ SC",
+      "CongDoanDongSon": "",
+      "TrangThaiDongSon": "",
+      "createdAt": 1668390297514,
+      "id": 2
+    },
+    {
+      "MaSo": "TVT20221114_73A-AAA",
+      "BienSoXe": "73A-AAA",
+      "TenKH": "qe",
+      "SoThe": "1",
+      "TrangThaiHen": "",
+      "LoaiHinhSuaChua": "EM",
+      "LoaiHinhDongSon": "",
+      "TDGapLeTan": 1668390376757,
+      "TrangThaiXuong": "02 Chờ Tiếp Nhận",
+      "CoVanDichVu": "Mẫn",
+      "TrangThaiSCC": "Chờ SC",
+      "CongDoanDongSon": "",
+      "TrangThaiDongSon": "",
+      "createdAt": 1668390377550,
+      "id": 3
+    }
+  ],
+  "XeDaGiao": [
+    {
       "MaSo": "TVT20221114_72A-199.99",
       "BienSoXe": "72A-199.99",
       "TenKH": "1",
@@ -9,17 +65,16 @@
       "LoaiHinhSuaChua": "EM",
       "LoaiHinhDongSon": "",
       "TDGapLeTan": "14/11/2022 08:36:00",
-      "TrangThaiXuong": "02 Chờ Tiếp Nhận",
+      "TrangThaiXuong": "02 Hủy Tiếp Nhận",
       "CoVanDichVu": "None",
       "TrangThaiSCC": "Chờ SC",
       "CongDoanDongSon": "",
       "TrangThaiDongSon": "",
-      "createdAt": 1668389781675,
-      "id": 1,
+      "createdAt": 1668390157125,
       "TimeStartGJ": "14/11/2022 09:06:00",
       "KhoangSuaChua": "EM 01",
-      "TimeEndGJ": "14/11/2022 10:40:00"
+      "TimeEndGJ": "14/11/2022 10:40:00",
+      "id": 1
     }
-  ],
-  "XeDaGiao": []
+  ]
 }
