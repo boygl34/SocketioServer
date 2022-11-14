@@ -16,7 +16,9 @@
       "TrangThaiDongSon": "",
       "createdAt": "1668390169992",
       "id": 1,
-      "KhoangSuaChua": "EM 04"
+      "KhoangSuaChua": "EM 04",
+      "TimeStartGJ": "2022-11-14T10:13",
+      "TimeEndGJ": "2022-11-14T15:25"
     },
     {
       "MaSo": "TVT20221114_74A-999.99",
@@ -34,7 +36,7 @@
       "TrangThaiDongSon": "",
       "createdAt": "1668390297514",
       "id": 2,
-      "KhoangSuaChua": "EM 01"
+      "KhoangSuaChua": "EM 04"
     },
     {
       "MaSo": "TVT20221114_73A-AAA",
@@ -52,7 +54,9 @@
       "TrangThaiDongSon": "",
       "createdAt": "1668390377550",
       "id": 3,
-      "KhoangSuaChua": "EM 03"
+      "KhoangSuaChua": "EM 02",
+      "TimeStartGJ": "2022-11-14T10:13",
+      "TimeEndGJ": "2022-11-14T15:35"
     },
     {
       "MaSo": "TVT20221114_72A-989.89",
@@ -71,8 +75,9 @@
       "createdAt": "1668393561845",
       "id": 4,
       "KhoangSuaChua": "EM 03",
-      "TimeStartGJ": "2022-11-14T09:25",
-      "TimeEndGJ": "2022-11-14T16:32"
+      "TimeStartGJ": "2022-11-14T08:40",
+      "TimeEndGJ": "2022-11-14T14:00",
+      "NhomKTV": "EM"
     },
     {
       "MaSo": "TVT20221114_72A-999991",
