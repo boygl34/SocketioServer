@@ -89,8 +89,8 @@
       "createdAt": "1668393806550",
       "id": 5,
       "KhoangSuaChua": "EM 02",
-      "TimeStartGJ": "2022-11-14T01:20:00.000Z",
-      "TimeEndGJ": "2022-11-14T14:10",
+      "TimeStartGJ": "",
+      "TimeEndGJ": "",
       "NhomKTV": ""
     },
     {
@@ -111,7 +111,7 @@
       "id": 6,
       "KhoangSuaChua": "EM 03",
       "TimeStartGJ": "2022-11-14T02:00:00.000Z",
-      "TimeEndGJ": "2022-11-14T21:55:00.000Z"
+      "TimeEndGJ": "2022-11-14T09:25:00.000Z"
     }
   ],
   "XeDaGiao": [
