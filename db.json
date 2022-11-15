@@ -192,6 +192,13 @@
       "PhanQuyen": "admin",
       "BoPhan": "Dịch Vụ",
       "Password": "khongbiet"
+    }, {
+      "id": "THCO_KHAITRAN",
+      "Ten": "Khải",
+      "useName": "Trần Văn Khải",
+      "PhanQuyen": "admin",
+      "BoPhan": "Dịch Vụ",
+      "Password": "Khai12345"
     }
   ],
   "XeTrongXuong": [],
