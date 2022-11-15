@@ -219,6 +219,24 @@
       "id": 1,
       "KhoangSuaChua": "BDN 02",
       "TimeEndGJ": "2022-11-15T15:09"
+    },
+    {
+      "MaSo": "TVT20221115_72A-000.01",
+      "BienSoXe": "72A-000.01",
+      "TDHenGiaoXe": "2022-11-16T21:30",
+      "LoaiHinhSuaChua": "SCC",
+      "LoaiHinhDongSon": "",
+      "TDGapLeTan": "2022-11-15T09:48:26.234Z",
+      "TrangThaiXuong": "02 Chờ Tiếp Nhận",
+      "CoVanDichVu": "Khải",
+      "TrangThaiSCC": "Chờ SC",
+      "CongDoanDongSon": "",
+      "TrangThaiDongSon": "",
+      "createdAt": 1668505707261,
+      "id": 2,
+      "TimeStartGJ": "2022-11-15T08:05",
+      "KhoangSuaChua": "BDN 02",
+      "TimeEndGJ": "2022-11-15T10:00"
     }
   ],
   "XeDaGiao": [
