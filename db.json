@@ -7,16 +7,17 @@
       "LoaiHinhSuaChua": "EM",
       "LoaiHinhDongSon": "",
       "TDGapLeTan": "2022-11-14T15:00:47.842Z",
-      "TrangThaiXuong": "05 Đang Sửa Chữa",
+      "TrangThaiXuong": "05 Dừng Công Việc",
       "CoVanDichVu": "Trực",
-      "TrangThaiSCC": "Đang SC",
+      "TrangThaiSCC": "Dừng CV",
       "CongDoanDongSon": "",
       "TrangThaiDongSon": "",
       "createdAt": "1668438044855",
       "id": 1,
-      "KhoangSuaChua": "EM 03",
-      "TimeStartGJ": "2022-11-15T08:25",
-      "TimeEndGJ": "2022-11-15T15:15"
+      "KhoangSuaChua": "EM 02",
+      "TimeStartGJ": "2022-11-15T09:40",
+      "TimeEndGJ": "2022-11-15T12:20",
+      "TimeStopGJ": "2022-11-15T08:46"
     }
   ],
   "XeDaGiao": []
