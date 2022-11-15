@@ -192,7 +192,8 @@
       "PhanQuyen": "admin",
       "BoPhan": "Dịch Vụ",
       "Password": "khongbiet"
-    }, {
+    },
+    {
       "id": "THCO_KHAITRAN",
       "Ten": "Khải",
       "useName": "Trần Văn Khải",
@@ -201,7 +202,25 @@
       "Password": "Khai12345"
     }
   ],
-  "XeTrongXuong": [],
+  "XeTrongXuong": [
+    {
+      "MaSo": "TVT20221115_72A-123.45",
+      "BienSoXe": "72A-123.45",
+      "TDHenGiaoXe": "2022-11-15T20:00",
+      "LoaiHinhSuaChua": "EM",
+      "LoaiHinhDongSon": "",
+      "TDGapLeTan": "2022-11-15T08:04:01.988Z",
+      "TrangThaiXuong": "08 Chờ Giao Xe",
+      "CoVanDichVu": "Khải",
+      "TrangThaiSCC": "Đã SC",
+      "CongDoanDongSon": "",
+      "TrangThaiDongSon": "",
+      "createdAt": "1668499442932",
+      "id": 1,
+      "KhoangSuaChua": "BDN 02",
+      "TimeEndGJ": "2022-11-15T15:09"
+    }
+  ],
   "XeDaGiao": [
     {
       "MaSo": "TVT20221115_72A-998.66",
