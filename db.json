@@ -35,7 +35,7 @@
     {
       "id": "NhomSCC",
       "value": {
-        "NhomSCC0": "BD 01",
+        "NhomSCC0": "BDN 01",
         "NhomSCC1": "SC 02",
         "NhomSCC2": "SC 03"
       }
@@ -52,8 +52,8 @@
       "value": {
         "KTVEM0": "KTV 09",
         "KTVEM1": "KTV 10",
-        "KTVEM2": "Đ Anh",
-        "KTVEM3": "Khoa"
+        "KTVEM2": "KTV 11",
+        "KTVEM3": "KTV 12"
       }
     },
     {
@@ -95,15 +95,15 @@
     {
       "id": "KhoangScc",
       "value": {
-        "KhoangScc0": "EM 01",
-        "KhoangScc1": "EM 02",
-        "KhoangScc2": "EM 03",
-        "KhoangScc3": "EM 04",
-        "KhoangScc4": "SCC 05",
-        "KhoangScc5": "SCC 06",
-        "KhoangScc6": "SCC 07",
-        "KhoangScc7": "SCC 08",
-        "KhoangScc8": "SCC 09"
+        "KhoangScc0": "BDN 01",
+        "KhoangScc1": "BDN 02",
+        "KhoangScc2": "BDN 03",
+        "KhoangScc3": "BDN 04",
+        "KhoangScc4": "BDN 05",
+        "KhoangScc5": "BDN 06",
+        "KhoangScc6": "BDN07",
+        "KhoangScc7": "BDN 08",
+        "KhoangScc8": "BDN 09"
       }
     },
     {
