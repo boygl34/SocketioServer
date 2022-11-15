@@ -11,7 +11,8 @@
         "NhomCV5": "Rôn",
         "NhomCV6": "Mẫn",
         "NhomCV7": "Tài",
-        "NhomCV8": "Hiệp"
+        "NhomCV8": "Hiệp",
+        "CVmoi": "Trực"
       }
     },
     {
@@ -130,11 +131,7 @@
         "KhoangScc5": "SCC 06",
         "KhoangScc6": "SCC 07",
         "KhoangScc7": "SCC 08",
-        "KhoangScc8": "SCC 09",
-        "KhoangScc9": "SCC 10",
-        "KhoangScc10": "4 Trụ",
-        "KhoangScc11": "K Ngoài",
-        "CVmoi": "K Ngoài 2"
+        "KhoangScc8": "SCC 09"
       }
     },
     {
@@ -242,8 +239,10 @@
       "TrangThaiDongSon": "",
       "createdAt": "1668438044855",
       "id": 1,
-      "KhoangSuaChua": "EM 02",
-      "TimeStopGJ": "2022-11-15T08:50"
+      "KhoangSuaChua": "EM  02",
+      "TimeStopGJ": "2022-11-15T08:50",
+      "TimeStartGJ": "2022-11-14T01:26:04.505Z",
+      "TimeEndGJ": "2022-11-14T01:56:04.505Z"
     }
   ],
   "XeDaGiao": []
