@@ -12,11 +12,11 @@
       "TrangThaiSCC": "Đang SC",
       "CongDoanDongSon": "",
       "TrangThaiDongSon": "",
-      "createdAt": 1668438044855,
+      "createdAt": "1668438044855",
       "id": 1,
-      "TimeStartGJ": "2022-11-14T22:15",
       "KhoangSuaChua": "EM 03",
-      "TimeEndGJ": "2022-11-15T12:10"
+      "TimeStartGJ": "2022-11-15T08:25",
+      "TimeEndGJ": "2022-11-15T15:15"
     }
   ],
   "XeDaGiao": []
