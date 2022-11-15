@@ -194,27 +194,7 @@
       "Password": "khongbiet"
     }
   ],
-  "XeTrongXuong": [
-    {
-      "MaSo": "TVT20221115_72A-777.77",
-      "BienSoXe": "72A-777.77",
-      "TDHenGiaoXe": "2022-11-15T13:28",
-      "LoaiHinhSuaChua": "EM",
-      "LoaiHinhDongSon": "",
-      "TDGapLeTan": "2022-11-15T06:28:55.113Z",
-      "TrangThaiXuong": "05 Đang Sửa Chữa",
-      "CoVanDichVu": "Trực",
-      "TrangThaiSCC": "Đang SC",
-      "CongDoanDongSon": "",
-      "TrangThaiDongSon": "",
-      "createdAt": 1668485104371,
-      "id": 3,
-      "TimeStartGJ": "2022-11-15T13:29",
-      "KhoangSuaChua": "BDN 01",
-      "TimeEndGJ": "2022-11-15T19:19",
-      "NhomKTV": "BDN 01"
-    }
-  ],
+  "XeTrongXuong": [],
   "XeDaGiao": [
     {
       "MaSo": "TVT20221115_72A-998.66",
@@ -271,6 +251,25 @@
       "TimeStartGJ": "2022-11-14T01:26:04.505Z",
       "TimeEndGJ": "2022-11-14T01:56:04.505Z",
       "id": 3
+    },
+    {
+      "MaSo": "TVT20221115_72A-777.77",
+      "BienSoXe": "72A-777.77",
+      "TDHenGiaoXe": "2022-11-15T13:28",
+      "LoaiHinhSuaChua": "EM",
+      "LoaiHinhDongSon": "",
+      "TDGapLeTan": "2022-11-15T06:28:55.113Z",
+      "TrangThaiXuong": "09 Đã Giao Xe",
+      "CoVanDichVu": "Trực",
+      "TrangThaiSCC": "Đã SC",
+      "CongDoanDongSon": "",
+      "TrangThaiDongSon": "",
+      "createdAt": 1668494233297,
+      "TimeStartGJ": "2022-11-15T13:29",
+      "KhoangSuaChua": "BDN 01",
+      "TimeEndGJ": "2022-11-15T13:36",
+      "NhomKTV": "BDN 01",
+      "id": 4
     }
   ]
 }
