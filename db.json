@@ -1,232 +1,232 @@
 {
-  "ThongSo":[
-  {
-    "id": "NhomCV",
-    "value": {
-      "NhomCV0": "None",
-      "NhomCV1": "Toàn",
-      "NhomCV2": "Vinh",
-      "NhomCV3": "Sang",
-      "NhomCV4": "Lộc",
-      "NhomCV5": "Rôn",
-      "NhomCV6": "Mẫn",
-      "NhomCV7": "Tài",
-      "NhomCV8": "Hiệp"
+  "ThongSo": [
+    {
+      "id": "NhomCV",
+      "value": {
+        "NhomCV0": "None",
+        "NhomCV1": "Toàn",
+        "NhomCV2": "Vinh",
+        "NhomCV3": "Sang",
+        "NhomCV4": "Lộc",
+        "NhomCV5": "Rôn",
+        "NhomCV6": "Mẫn",
+        "NhomCV7": "Tài",
+        "NhomCV8": "Hiệp"
+      }
+    },
+    {
+      "id": "GruopTDDatHen",
+      "value": {
+        "GruopTDDatHen0": "EM",
+        "GruopTDDatHen1": "SCC",
+        "GruopTDDatHen2": "Đồng Sơn",
+        "GruopTDDatHen3": "Báo Giá BH"
+      }
+    },
+    {
+      "id": "KhoangKoSuDung",
+      "value": {
+        "KhoangKoSuDung0": ""
+      }
+    },
+    {
+      "id": "GruopTDongSon",
+      "value": {
+        "GruopTDongSon0": "",
+        "GruopTDongSon1": ""
+      }
+    },
+    {
+      "id": "NhomSCC",
+      "value": {
+        "NhomSCC0": "EM",
+        "NhomSCC1": "Bạo",
+        "NhomSCC2": "Hoan"
+      }
+    },
+    {
+      "id": "NhomSon",
+      "value": {
+        "NhomSon0": "Đình",
+        "NhomSon1": "Thiên"
+      }
+    },
+    {
+      "id": "KTVEM",
+      "value": {
+        "KTVEM0": "Sáng",
+        "KTVEM1": "Hưng",
+        "KTVEM2": "Đ Anh",
+        "KTVEM3": "Khoa",
+        "KTVEM4": "Cường",
+        "KTVEM5": "Hiển",
+        "KTVEM6": "Trí",
+        "KTVEM7": "Sáng 2",
+        "CVmoi": "Vinh"
+      }
+    },
+    {
+      "id": "KTVScc1",
+      "value": {
+        "KTVScc10": "Bạo",
+        "KTVScc11": "Duy",
+        "KTVScc12": "Phước",
+        "KTVScc13": "Hiếu",
+        "KTVScc14": "Tân"
+      }
+    },
+    {
+      "id": "KTVScc2",
+      "value": {
+        "KTVScc20": "Hoan",
+        "KTVScc21": "Thiên",
+        "KTVScc22": "Lâm",
+        "KTVScc23": "Sơn"
+      }
+    },
+    {
+      "id": "KTVDong",
+      "value": {
+        "KTVDong0": "Châu",
+        "KTVDong1": "Phúc",
+        "KTVDong2": "Trương",
+        "KTVDong3": "Trường",
+        "KTVDong4": "Định",
+        "KTVDong5": "Khoa"
+      }
+    },
+    {
+      "id": "KTVSon1",
+      "value": {
+        "KTVSon10": "Đình",
+        "KTVSon11": "Thành",
+        "KTVSon12": "Lưu",
+        "KTVSon13": "Hùng",
+        "KTVSon14": "Lâm",
+        "KTVSon15": "Duy",
+        "KTVSon16": "Tài"
+      }
+    },
+    {
+      "id": "KTVSon2",
+      "value": {
+        "KTVSon20": "Thiên",
+        "KTVSon21": "Dũng",
+        "KTVSon22": "Lực",
+        "KTVSon23": "Tú",
+        "KTVSon24": "Chương",
+        "KTVSon25": "Đồng",
+        "CVmoi": "Quốc"
+      }
+    },
+    {
+      "id": "KhoangScc",
+      "value": {
+        "KhoangScc0": "EM 01",
+        "KhoangScc1": "EM 02",
+        "KhoangScc2": "EM 03",
+        "KhoangScc3": "EM 04",
+        "KhoangScc4": "SCC 05",
+        "KhoangScc5": "SCC 06",
+        "KhoangScc6": "SCC 07",
+        "KhoangScc7": "SCC 08",
+        "KhoangScc8": "SCC 09",
+        "KhoangScc9": "SCC 10",
+        "KhoangScc10": "4 Trụ",
+        "KhoangScc11": "K Ngoài",
+        "CVmoi": "K Ngoài 2"
+      }
+    },
+    {
+      "id": "PhongSon",
+      "value": {
+        "PhongSon0": "Phòng Sơn 01",
+        "PhongSon1": "Phòng Sơn 02",
+        "CVmoi": "Phòng Sơn 03"
+      }
+    },
+    {
+      "id": "KTVSCC",
+      "value": {
+        "KTVSCC0": "Bạo",
+        "KTVSCC1": "Lâm",
+        "KTVSCC2": "Tân",
+        "KTVSCC3": "Hiếu",
+        "KTVSCC4": "Sơn",
+        "KTVSCC5": "Thiên",
+        "KTVSCC6": "Hoan",
+        "KTVSCC7": "Duy",
+        "CVmoi": "Phước"
+      }
+    },
+    {
+      "id": "KTVDongSon"
+    },
+    {
+      "id": "KhuVuc",
+      "value": {
+        "KhuVuc0": "Vũng Tàu",
+        "KhuVuc1": "Bà Rịa",
+        "KhuVuc2": "Đất Đỏ",
+        "CVmoi": "Tân Thành"
+      }
+    },
+    {
+      "id": "KieuXe",
+      "value": {
+        "CVmoi": "Camry"
+      }
+    },
+    {
+      "id": "ChieuDaiChipGJ",
+      "value": {
+        "ChieuDaiChipGJ0": "30"
+      }
+    },
+    {
+      "id": "ChieuDaiChipDong",
+      "value": {
+        "CVmoi": "60"
+      }
+    },
+    {
+      "id": "DatHenEM",
+      "value": {
+        "CVmoi": "3"
+      }
+    },
+    {
+      "id": "DatHenSCC",
+      "value": {
+        "CVmoi": "2"
+      }
+    },
+    {
+      "id": "DatHenDS",
+      "value": {
+        "CVmoi": "1"
+      }
+    },
+    {
+      "id": "ThuTuEM",
+      "value": {
+        "ThuTuEM0": "EM 01",
+        "ThuTuEM1": "EM 04",
+        "ThuTuEM2": "EM 02",
+        "ThuTuEM3": "EM 03"
+      }
     }
-  },
-  {
-    "id": "GruopTDDatHen",
-    "value": {
-      "GruopTDDatHen0": "EM",
-      "GruopTDDatHen1": "SCC",
-      "GruopTDDatHen2": "Đồng Sơn",
-      "GruopTDDatHen3": "Báo Giá BH"
-    }
-  },
-  {
-    "id": "KhoangKoSuDung",
-    "value": {
-      "KhoangKoSuDung0": ""
-    }
-  },
-  {
-    "id": "GruopTDongSon",
-    "value": {
-      "GruopTDongSon0": "",
-      "GruopTDongSon1": ""
-    }
-  },
-  {
-    "id": "NhomSCC",
-    "value": {
-      "NhomSCC0": "EM",
-      "NhomSCC1": "Bạo",
-      "NhomSCC2": "Hoan"
-    }
-  },
-  {
-    "id": "NhomSon",
-    "value": {
-      "NhomSon0": "Đình",
-      "NhomSon1": "Thiên"
-    }
-  },
-  {
-    "id": "KTVEM",
-    "value": {
-      "KTVEM0": "Sáng",
-      "KTVEM1": "Hưng",
-      "KTVEM2": "Đ Anh",
-      "KTVEM3": "Khoa",
-      "KTVEM4": "Cường",
-      "KTVEM5": "Hiển",
-      "KTVEM6": "Trí",
-      "KTVEM7": "Sáng 2",
-      "CVmoi": "Vinh"
-    }
-  },
-  {
-    "id": "KTVScc1",
-    "value": {
-      "KTVScc10": "Bạo",
-      "KTVScc11": "Duy",
-      "KTVScc12": "Phước",
-      "KTVScc13": "Hiếu",
-      "KTVScc14": "Tân"
-    }
-  },
-  {
-    "id": "KTVScc2",
-    "value": {
-      "KTVScc20": "Hoan",
-      "KTVScc21": "Thiên",
-      "KTVScc22": "Lâm",
-      "KTVScc23": "Sơn"
-    }
-  },
-  {
-    "id": "KTVDong",
-    "value": {
-      "KTVDong0": "Châu",
-      "KTVDong1": "Phúc",
-      "KTVDong2": "Trương",
-      "KTVDong3": "Trường",
-      "KTVDong4": "Định",
-      "KTVDong5": "Khoa"
-    }
-  },
-  {
-    "id": "KTVSon1",
-    "value": {
-      "KTVSon10": "Đình",
-      "KTVSon11": "Thành",
-      "KTVSon12": "Lưu",
-      "KTVSon13": "Hùng",
-      "KTVSon14": "Lâm",
-      "KTVSon15": "Duy",
-      "KTVSon16": "Tài"
-    }
-  },
-  {
-    "id": "KTVSon2",
-    "value": {
-      "KTVSon20": "Thiên",
-      "KTVSon21": "Dũng",
-      "KTVSon22": "Lực",
-      "KTVSon23": "Tú",
-      "KTVSon24": "Chương",
-      "KTVSon25": "Đồng",
-      "CVmoi": "Quốc"
-    }
-  },
-  {
-    "id": "KhoangScc",
-    "value": {
-      "KhoangScc0": "EM 01",
-      "KhoangScc1": "EM 02",
-      "KhoangScc2": "EM 03",
-      "KhoangScc3": "EM 04",
-      "KhoangScc4": "SCC 05",
-      "KhoangScc5": "SCC 06",
-      "KhoangScc6": "SCC 07",
-      "KhoangScc7": "SCC 08",
-      "KhoangScc8": "SCC 09",
-      "KhoangScc9": "SCC 10",
-      "KhoangScc10": "4 Trụ",
-      "KhoangScc11": "K Ngoài",
-      "CVmoi": "K Ngoài 2"
-    }
-  },
-  {
-    "id": "PhongSon",
-    "value": {
-      "PhongSon0": "Phòng Sơn 01",
-      "PhongSon1": "Phòng Sơn 02",
-      "CVmoi": "Phòng Sơn 03"
-    }
-  },
-  {
-    "id": "KTVSCC",
-    "value": {
-      "KTVSCC0": "Bạo",
-      "KTVSCC1": "Lâm",
-      "KTVSCC2": "Tân",
-      "KTVSCC3": "Hiếu",
-      "KTVSCC4": "Sơn",
-      "KTVSCC5": "Thiên",
-      "KTVSCC6": "Hoan",
-      "KTVSCC7": "Duy",
-      "CVmoi": "Phước"
-    }
-  },
-  {
-    "id": "KTVDongSon"
-  },
-  {
-    "id": "KhuVuc",
-    "value": {
-      "KhuVuc0": "Vũng Tàu",
-      "KhuVuc1": "Bà Rịa",
-      "KhuVuc2": "Đất Đỏ",
-      "CVmoi": "Tân Thành"
-    }
-  },
-  {
-    "id": "KieuXe",
-    "value": {
-      "CVmoi": "Camry"
-    }
-  },
-  {
-    "id": "ChieuDaiChipGJ",
-    "value": {
-      "ChieuDaiChipGJ0": "30"
-    }
-  },
-  {
-    "id": "ChieuDaiChipDong",
-    "value": {
-      "CVmoi": "60"
-    }
-  },
-  {
-    "id": "DatHenEM",
-    "value": {
-      "CVmoi": "3"
-    }
-  },
-  {
-    "id": "DatHenSCC",
-    "value": {
-      "CVmoi": "2"
-    }
-  },
-  {
-    "id": "DatHenDS",
-    "value": {
-      "CVmoi": "1"
-    }
-  },
-  {
-    "id": "ThuTuEM",
-    "value": {
-      "ThuTuEM0": "EM 01",
-      "ThuTuEM1": "EM 04",
-      "ThuTuEM2": "EM 02",
-      "ThuTuEM3": "EM 03"
-    }
-  }
-],
-   "User": [
+  ],
+  "User": [
     {
       "id": "Boygl34",
       "Ten": "Trực",
-      "useName": "Võ Chính Trực",
+      "useName": "Võ Chính Trực 2",
       "PhanQuyen": "admin",
       "BoPhan": "Dịch Vụ",
       "Password": "khongbiet"
     }
-   ],
+  ],
   "XeTrongXuong": [
     {
       "MaSo": "TVT20221114_72A-989.99",
@@ -243,9 +243,7 @@
       "createdAt": "1668438044855",
       "id": 1,
       "KhoangSuaChua": "EM 02",
-      "TimeStopGJ": "2022-11-15T08:50",
-      "TimeStartGJ": "2022-11-15T09:43",
-      "TimeEndGJ": "2022-11-15T11:25"
+      "TimeStopGJ": "2022-11-15T08:50"
     }
   ],
   "XeDaGiao": []
