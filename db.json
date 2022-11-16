@@ -190,7 +190,7 @@
       "Ten": "Trực",
       "useName": "Võ Chính Trực 2",
       "PhanQuyen": "admin",
-      "BoPhan": "Dịch Vụ",
+      "BoPhan": "admin",
       "Password": "khongbiet"
     },
     {
@@ -202,33 +202,10 @@
       "Password": "Khai12345"
     }
   ],
-  "XeTrongXuong": [],
+  "XeTrongXuong": [
+   
+  ],
   "XeDaGiao": [
-    {
-      "MaSo": "TVT20221116_72A-999.91",
-      "BienSoXe": "72A-999.91",
-      "LoaiHinhSuaChua": "EM",
-      "LoaiHinhDongSon": "",
-      "TDKetThucTiepKhach": "16/11/2022 13:52:00",
-      "TrangThaiXuong": "09 Đã Giao Xe",
-      "CoVanDichVu": "Khải",
-      "KhachHangDoi": "Khách Đợi",
-      "KhachRuaXe": "Rửa Xe",
-      "TDHenGiaoXe": "16/11/2022 12:00",
-      "TrangThaiSCC": "Đã SC",
-      "CongDoanDongSon": "",
-      "TrangThaiDongSon": "",
-      "createdAt": 1668581644856,
-      "TimeStartGJ": "16/11/2022 13:55:00",
-      "KhoangSuaChua": "BDN 01",
-      "TimeEndGJ": "16/11/2022 13:53:00",
-      "KyThuatVien1": "None",
-      "KyThuatVien2": "None",
-      "NhomKTV": null,
-      "BaiDauXe": "Rửa Xe",
-      "TimeEndWash": "16/11/2022 13:53:00",
-      "TDRaKhoicong": "16/11/2022 13:54:00",
-      "id": 1
-    }
+    
   ]
 }
