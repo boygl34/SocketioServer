@@ -203,9 +203,23 @@
     }
   ],
   "XeTrongXuong": [
-   
+    {
+      "MaSo": "TVT20221116_72A-123.45",
+      "BienSoXe": "72A-123.45",
+      "TenKH": "ANH A",
+      "SoThe": "1",
+      "TrangThaiHen": "",
+      "LoaiHinhSuaChua": "EM",
+      "LoaiHinhDongSon": "",
+      "TDGapLeTan": "16/11/2022 17:19:00",
+      "TrangThaiXuong": "02 Chờ Tiếp Nhận",
+      "CoVanDichVu": "TVDV 1",
+      "TrangThaiSCC": "Chờ SC",
+      "CongDoanDongSon": "",
+      "TrangThaiDongSon": "",
+      "createdAt": 1668593991785,
+      "id": 1
+    }
   ],
-  "XeDaGiao": [
-    
-  ]
+  "XeDaGiao": []
 }
