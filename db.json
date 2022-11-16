@@ -204,26 +204,9 @@
   ],
   "XeTrongXuong": [
     {
-      "MaSo": "TVT20221115_72A-123.45",
-      "BienSoXe": "72A-123.45",
-      "TDHenGiaoXe": "2022-11-15T20:00",
-      "LoaiHinhSuaChua": "EM",
-      "LoaiHinhDongSon": "",
-      "TDGapLeTan": "2022-11-15T08:04:01.988Z",
-      "TrangThaiXuong": "08 Chờ Giao Xe",
-      "CoVanDichVu": "Khải",
-      "TrangThaiSCC": "Đã SC",
-      "CongDoanDongSon": "",
-      "TrangThaiDongSon": "",
-      "createdAt": "1668499442932",
-      "id": 1,
-      "KhoangSuaChua": "BDN 02",
-      "TimeEndGJ": "2022-11-15T15:09"
-    },
-    {
       "MaSo": "TVT20221115_72A-000.01",
       "BienSoXe": "72A-000.01",
-      "TDHenGiaoXe": "2022-11-16T21:30",
+      "TDHenGiaoXe": "NaN/NaN/NaN NaN:NaN:00",
       "LoaiHinhSuaChua": "SCC",
       "LoaiHinhDongSon": "",
       "TDGapLeTan": "2022-11-15T09:48:26.234Z",
@@ -236,7 +219,9 @@
       "id": 2,
       "KhoangSuaChua": "BDN 03",
       "TimeStartGJ": "2022-11-16T08:55",
-      "TimeEndGJ": "2022-11-16T11:50"
+      "TimeEndGJ": "2022-11-16T11:50",
+      "KhachHangDoi": "Khách Đợi",
+      "KhachRuaXe": "Rửa Xe"
     }
   ],
   "XeDaGiao": [
@@ -388,6 +373,24 @@
       "TimeEndGJ": "2022-11-16T11:55",
       "TDRaKhoicong": "2022-11-15T13:14:52.451Z",
       "id": 8
+    },
+    {
+      "MaSo": "TVT20221115_72A-123.45",
+      "BienSoXe": "72A-123.45",
+      "TDHenGiaoXe": "2022-11-15T20:00",
+      "LoaiHinhSuaChua": "EM",
+      "LoaiHinhDongSon": "",
+      "TDGapLeTan": "2022-11-15T08:04:01.988Z",
+      "TrangThaiXuong": "09 Đã Giao Xe",
+      "CoVanDichVu": "Khải",
+      "TrangThaiSCC": "Đã SC",
+      "CongDoanDongSon": "",
+      "TrangThaiDongSon": "",
+      "createdAt": 1668579589564,
+      "KhoangSuaChua": "BDN 02",
+      "TimeEndGJ": "2022-11-15T15:09",
+      "TDRaKhoicong": "16/11/2022 13:19:00",
+      "id": 9
     }
   ]
 }
