@@ -218,7 +218,13 @@
       "CongDoanDongSon": "",
       "TrangThaiDongSon": "",
       "createdAt": 1668593991785,
-      "id": 1
+      "id": 1,
+      "TimeStartGJ": "16/11/2022 08:48:00",
+      "KhoangSuaChua": "BD01",
+      "TimeEndGJ": "16/11/2022 09:18:00",
+      "KyThuatVien1": "None",
+      "KyThuatVien2": "None",
+      "NhomKTV": null
     },
     {
       "MaSo": "TVT20221117_72A-000.01",
