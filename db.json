@@ -1,7 +1,8 @@
 {
   "ThongSo": [
     {
-      "id": "NhomCV",
+      "id": "TVDV",
+      "name":"Nhân Viên Tư Vấn Dịch Vụ",
       "value": {
         "NhomCV0": "None",
         "NhomCV1": "TVDV 1",
@@ -11,7 +12,7 @@
       }
     },
     {
-      "id": "GruopTDDatHen",
+      "id": "Loai",
       "value": {
         "GruopTDDatHen0": "EM",
         "GruopTDDatHen1": "SCC",
@@ -33,7 +34,7 @@
       }
     },
     {
-      "id": "NhomSCC",
+      "id": "Nhóm SC",
       "value": {
         "NhomSCC0": "BDN 01",
         "NhomSCC1": "SC 02",
@@ -41,14 +42,14 @@
       }
     },
     {
-      "id": "NhomSon",
+      "id": "Nhóm Sơn",
       "value": {
         "NhomSon0": "NS 01",
         "NhomSon1": "NS 02"
       }
     },
     {
-      "id": "KTVEM",
+      "id": "KTV Bão Dưỡng",
       "value": {
         "KTVEM0": "KTV 09",
         "KTVEM1": "KTV 10",
@@ -57,12 +58,13 @@
       }
     },
     {
-      "id": "KTVScc1",
+      "id": "KTV Sữa Chữa 1",
       "value": {
         "KTVScc10": "KTV 01",
         "KTVScc11": "KTV 02",
         "KTVScc12": "KTV 03",
         "KTVScc13": "KTV 04"
+        
       }
     },
     {
