@@ -219,17 +219,16 @@
       "TrangThaiDongSon": "Chờ SC",
       "createdAt": "1668593991785",
       "id": 1,
-      "KhoangSuaChua": "BD01",
-      "TimeStartGJ": "17/11/2022 08:31:00",
-      "TimeEndGJ": "17/11/2022 09:01:00",
-      "NhomKTV": "SCC01",
-      "KyThuatVien1": "SCC101",
-      "KyThuatVien2": "SCC102",
+      "KhoangSuaChua": "BD02",
       "KhachHangDoi": "Khách Đợi",
       "KhachRuaXe": "Rửa Xe",
       "TDHenGiaoXe": "16/11/2022 19:33",
       "TDKetThucTiepKhach": "16/11/2022 19:34:00",
-      "NhomSon": "KTVSon02"
+      "NhomSon": "KTVSon02",
+      "TimeStartGJ": "17/11/2022 11:30:00",
+      "TimeEndGJ": "17/11/2022 16:10:00",
+      "NhomKTV": "BDN",
+      "KyThuatVien1": "BDN01"
     },
     {
       "MaSo": "TVT20221117_72A-000.01",
