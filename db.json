@@ -219,16 +219,14 @@
       "TrangThaiDongSon": "Chờ SC",
       "createdAt": "1668593991785",
       "id": 1,
-      "KhoangSuaChua": "BD02",
+      "KhoangSuaChua": "BD01",
       "KhachHangDoi": "Khách Đợi",
       "KhachRuaXe": "Rửa Xe",
       "TDHenGiaoXe": "16/11/2022 19:33",
       "TDKetThucTiepKhach": "16/11/2022 19:34:00",
       "NhomSon": "KTVSon02",
-      "TimeStartGJ": "17/11/2022 11:30:00",
-      "TimeEndGJ": "17/11/2022 12:00",
-      "NhomKTV": "BDN",
-      "KyThuatVien1": "BDN01"
+      "BaiDauXe": "BD01",
+      "TimeStopGJ": "16/11/2022 20:57:00"
     },
     {
       "MaSo": "TVT20221117_72A-000.01",
@@ -283,7 +281,7 @@
       "TDNgayHen": "17/11/2022",
       "GioHen": "08:30:00",
       "KhachHangHen": "Khách Hẹn",
-      "TrangThaiXuong": "02 Chờ Tiếp Nhận",
+      "TrangThaiXuong": "05 Đang Sửa Chữa",
       "NguoiDatHen": "Trần Văn Khải",
       "TDXacNhanHen": "16/11/2022 20:44:00",
       "createdAt": 1668606267304,
@@ -291,9 +289,20 @@
       "SoThe": "1",
       "TrangThaiHen": "Không Đúng Hẹn",
       "TDGapLeTan": "16/11/2022 20:47:00",
-      "TrangThaiSCC": "Chờ SC",
+      "TrangThaiSCC": "Đang SC",
       "CongDoanDongSon": "",
-      "TrangThaiDongSon": ""
+      "TrangThaiDongSon": "",
+      "TDBDTiepKhach": "16/11/2022 20:49:00",
+      "TimeEndGJ": "17/11/2022 09:50",
+      "NhomKTV": "BDN",
+      "KyThuatVien1": "BDN01",
+      "TimeStartGJ": "16/11/2022 20:52:00",
+      "KhoangSuaChua": "none",
+      "KyThuatVien2": "",
+      "BaiDauXe": "none",
+      "TDKetThucTiepKhach": "16/11/2022 20:52:00",
+      "KhachHangDoi": "Khách Đợi",
+      "TDHenGiaoXe": "17/11/2022 10:19:00"
     }
   ],
   "XeDaGiao": []
