@@ -1,4 +1,17 @@
 {
-  "XeTrongXuong": [],
+  "XeTrongXuong": [
+    {
+      "id": "72a1234",
+      "Biển Số Xe": "72a1234",
+      "Cố Vấn": "Toàn",
+      "createdAt": 1680247173129
+    },
+    {
+      "id": "72asd231",
+      "Biển Số Xe": "72asd231",
+      "Cố Vấn": "Tài",
+      "createdAt": 1680247311992
+    }
+  ],
   "XeDaGiao": []
 }
