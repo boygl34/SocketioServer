@@ -1,96 +1,21 @@
 {
   "XeTrongXuong": [
     {
-      "id": "72a19899",
-      "Biển Số Xe": "72a19899",
-      "Cố Vấn": "Lộc",
-      "Ngày Hẹn": "2023-03-28",
-      "Giờ Hẹn": "22:45",
-      "Loại Hình SCC": "EM",
-      "createdAt": 1680615933266
-    },
-    {
-      "id": "72A19021",
-      "Biển Số Xe": "72A19021",
-      "Cố Vấn": "Lộc",
-      "Ngày Hẹn": "2023-04-11",
-      "Giờ Hẹn": "23:51",
-      "Loại Hình SCC": "EM",
-      "createdAt": 1680616276873
-    },
-    {
-      "id": "72A190215",
-      "Biển Số Xe": "72A190215",
-      "Loại Hình SCC": "EM",
-      "createdAt": 1680619930543
-    },
-    {
-      "id": "56464",
-      "Biển Số Xe": "56464",
+      "id": "8123",
+      "Biển Số Xe": "8123",
       "Cố Vấn": "Lộc",
       "Ngày Hẹn": "2023-04-05",
-      "Giờ Hẹn": "21:54",
+      "Giờ Hẹn": "10:02",
       "Loại Hình SCC": "EM",
-      "Loại Hình BP": "Đồng Sơn",
-      "createdAt": 1680619971603
+      "createdAt": 1680656552047
     },
     {
-      "id": "234234",
-      "Biển Số Xe": "234234",
-      "Cố Vấn": "Lộc",
-      "Ngày Hẹn": "2023-04-04",
-      "Giờ Hẹn": "22:53",
-      "Loại Hình SCC": "EM",
-      "Loại Hình BP": "Đồng Sơn",
-      "createdAt": 1680620021661
-    },
-    {
-      "id": "72a19899931",
-      "Biển Số Xe": "72a19899931",
-      "Ngày Hẹn": "2023-04-11",
-      "Loại Hình SCC": "EM",
-      "createdAt": 1680620084205
-    },
-    {
-      "id": "5656",
-      "Biển Số Xe": "5656",
+      "id": "8781232",
+      "Biển Số Xe": "8781232",
       "Cố Vấn": "Rôn",
       "Ngày Hẹn": "2023-04-05",
       "Loại Hình SCC": "EM",
-      "createdAt": 1680620208513
-    },
-    {
-      "id": "ádá",
-      "Biển Số Xe": "ádá",
-      "Cố Vấn": "Lộc",
-      "Loại Hình SCC": "EM",
-      "createdAt": 1680620282736
-    },
-    {
-      "id": "72A1902198",
-      "Biển Số Xe": "72A1902198",
-      "Cố Vấn": "Lộc",
-      "Loại Hình SCC": "EM",
-      "createdAt": 1680620501978
-    },
-    {
-      "id": "72A1902199",
-      "Biển Số Xe": "72A1902199",
-      "createdAt": 1680620618979
-    },
-    {
-      "id": "2342349-90-",
-      "Biển Số Xe": "2342349-90-",
-      "Loại Hình SCC": "EM",
-      "createdAt": 1680620648808
-    },
-    {
-      "id": "2342349-90-12",
-      "Biển Số Xe": "2342349-90-12",
-      "Cố Vấn": "Lộc",
-      "Ngày Hẹn": "2023-04-04",
-      "Loại Hình SCC": "EM",
-      "createdAt": 1680620710274
+      "createdAt": 1680656636655
     }
   ],
   "XeDaGiao": []
