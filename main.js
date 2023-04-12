@@ -2,6 +2,11 @@ const jsonServer = require("json-server");
 const server = jsonServer.create();
 const router = jsonServer.router("db.json");
 const middlewares = jsonServer.defaults();
+// const io = require('socket.io')(server);
+// io.on('connection', client => {
+//   client.on('event', data => { /* … */ });
+//   client.on('disconnect', () => { /* … */ });
+// });
 
 // Set default middlewares (logger, static, cors and no-cache)
 server.use(middlewares);
