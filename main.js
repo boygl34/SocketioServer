@@ -1,35 +1,35 @@
-const jsonServer = require("json-server");
-const server = jsonServer.create();
-const router = jsonServer.router("db.json");
+
+const jsonServer = require('json-server');
+const http = require('http')
+const app = jsonServer.create();
+const router = jsonServer.router('db.json');
 const middlewares = jsonServer.defaults();
-// const io = require('socket.io')(server);
-// io.on('connection', client => {
-//   client.on('event', data => { /* … */ });
-//   client.on('disconnect', () => { /* … */ });
-// });
+app.use(middlewares)
+const server = http.createServer(app);
+const port = process.env.PORT || 3000;
+const io = require("socket.io")(server, {
+    cors: { origin: '*' }
+  });
+// Tạo connection tới database
+const db = router.db;
+io.on('connection', (socket) => {
 
-// Set default middlewares (logger, static, cors and no-cache)
-server.use(middlewares);
+    console.log('Client connected');
+    console.log(db.get())
+    socket.on('login', (data) => {
+        console.log('login',data)
+    io.emit('login', data);
+    });
 
-// Add custom routes before JSON Server router
-server.get("/echo", (req, res) => {
-  res.jsonp(req.query);
+    app.get('/echo', (req, res) => {
+        res.jsonp(req.query)
+        console.log(req.query);
+        })
+
+
 });
 
-// To handle POST, PUT and PATCH you need to use a body-parser
-// You can use the one used by JSON Server
-server.use(jsonServer.bodyParser);
-server.use((req, res, next) => {
-  if (req.method === "POST") {
-    req.body.createdAt = Date.now();
-  }
-  // Continue to JSON Server router
-  next();
-});
+server.listen(port, () => {
+console.log(`Server listening on port ${port}`);
 
-// Use default router
-
-server.use(router);
-server.listen(process.env.PORT || 3000, () => {
-  console.log("JSON Server is run");
 });
