@@ -11,21 +11,21 @@ const io = require("socket.io")(server, {
     cors: { origin: '*' }
   });
 // Tạo connection tới database
+app.use(router)
+app.use(middlewares)
 const db = router.db;
 io.on('connection', (socket) => {
 
     console.log('Client connected');
     console.log(db.get())
+
     socket.on('login', (data) => {
         console.log('login',data)
+        io.emit('login', db);    
     io.emit('login', data);
     });
 
-    app.get("/", function(req, res, next) {
-        res.send();
-        io.emit('login', res);
-       
-    });
+
 
 
 });
