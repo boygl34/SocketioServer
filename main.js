@@ -21,10 +21,11 @@ io.on('connection', (socket) => {
     io.emit('login', data);
     });
 
-    app.get('/echo', (req, res) => {
-        res.jsonp(req.query)
-        console.log(req.query);
-        })
+    app.get("/", function(req, res, next) {
+        res.send();
+        io.emit('login', res);
+       
+    });
 
 
 });
